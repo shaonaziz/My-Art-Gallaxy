@@ -7,7 +7,7 @@ WE Can change the background color according to jscolor picker! :)
 
 ![Screenshot (142)](https://user-images.githubusercontent.com/80143099/186125120-635782e5-79ed-4531-921c-e8ab9b0aa026.png)
 
-We can also same a image which extension is png
+We can also save a image
 
 ![Screenshot (143)](https://user-images.githubusercontent.com/80143099/186124913-f20ad57d-1f4c-44e0-8169-523a4e1712a6.png)
 
